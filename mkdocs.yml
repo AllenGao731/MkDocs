@@ -1,4 +1,6 @@
 site_name: My Docs
+site_author: AllenGao
+repo_url: https://github.com/AllenGao731/MkDocs
 
 theme:
   name: material
