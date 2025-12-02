@@ -1,5 +1,6 @@
 site_name: My Docs
 site_author: AllenGao
+repo_name: 'AllenGao731/MkDocs'
 repo_url: https://github.com/AllenGao731/MkDocs
 
 theme:
