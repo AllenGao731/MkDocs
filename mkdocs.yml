@@ -1,0 +1,12 @@
+site_name: My Docs
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - content.code.copy
+    - navigation.top
+    - search.suggest
+    - search.highlight
