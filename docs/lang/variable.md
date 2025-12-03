@@ -1,0 +1,36 @@
+## 变量
+
+### 变量的含义和定义
+
+**变量的含义** 内存中的空间  
+**变量的定义** 数据类型+变量名;
+
+### 变量的类型
+1. 整型  
+	short - 2个字节  
+    int - 4个字节  
+    long long - 8个字节  
+
+2. 实型  
+	float - 数值范围 : 6~7位  
+	double - 数值范围: 15~16位  
+	long double - 数值范围: 18~19位  
+	
+3. 字符型  
+	char - 1个字节
+
+### 格式化输出
+```cpp
+cout<<fixed<<setprecision(n)<<num; //保留num到小数点后n位
+cout<<setprecision（n）<<num; // 四舍五入保留n位有效数字
+cout<<round(3.1)<<endl; //四舍五入
+cout<<ceil(3.1); 		//向上取整
+cout<<floor(3.1); //向下取整
+cout<<int(3.1);    //向0 取整
+```
+
+### 常量
+
+**定义方式**
+1. const+类型名+常量类型+常量名；
+2. #define +常量名+ 该常量表示的数值

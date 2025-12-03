@@ -3,6 +3,13 @@ site_author: AllenGao
 repo_name: 'AllenGao731/MkDocs'
 repo_url: https://github.com/AllenGao731/MkDocs
 
+nav:
+  - 主页:
+    - Welcome to MkDocs: index.md
+  - 语言基础:
+    - 输入输出: lang/io.md
+    - 变量: lang/variable.md
+
 theme:
   name: material
   language: zh
