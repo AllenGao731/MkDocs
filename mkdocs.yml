@@ -13,6 +13,8 @@ nav:
     - 数组: lang/array.md
     - 运算符: lang/operator.md
     - 位运算: lang/bitwise_operation.md
+  - CSP:
+    - 奖项认证: csp/ac.md
 
 theme:
   name: material
