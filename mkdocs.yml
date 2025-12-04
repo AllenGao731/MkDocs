@@ -7,6 +7,7 @@ nav:
   - 主页:
     - Welcome to MkDocs: index.md
   - 语言基础:
+    - C++代码框架: lang/cpp.md
     - 输入输出: lang/io.md
     - 变量: lang/variable.md
 
