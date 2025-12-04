@@ -10,6 +10,7 @@ nav:
     - C++代码框架: lang/cpp.md
     - 输入输出: lang/io.md
     - 变量: lang/variable.md
+    - 运算符: lang/operator.md
 
 theme:
   name: material
