@@ -11,6 +11,7 @@ nav:
     - 输入输出: lang/io.md
     - 变量: lang/variable.md
     - 运算符: lang/operator.md
+    - 位运算: lang/bitwise_operation.md
 
 theme:
   name: material
